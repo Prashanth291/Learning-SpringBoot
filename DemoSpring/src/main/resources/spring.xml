@@ -1,0 +1,23 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <bean id="dev" class="org.example.Dev">-->
+<!--&lt;!&ndash;        <constructor-arg name="laptop" ref="laptop"></constructor-arg>&ndash;&gt;-->
+<!--        <property name="laptop" ref="laptop"/> // Setter Injection-->
+<!--&lt;!&ndash;        <constructor-arg ref="laptop"></constructor-arg>&ndash;&gt; // Constructor Injection-->
+<!--    </bean>-->
+
+    <bean id="dev" class="org.example.Dev">
+        <property name="comp" ref="laptop"/>
+    </bean>
+
+    <bean id="desktop" class="org.example.Desktop">
+
+    </bean>
+
+    <bean id="laptop" class = "org.example.Laptop">
+
+    </bean>
+</beans>
