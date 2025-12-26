@@ -1,4 +1,4 @@
-# Learning Spring Boot & Java Backend Development 🚀
+# Learning Spring Boot & Java Backend Development 
 
 This repository documents my hands-on learning journey in **Java backend development** using **Spring Boot**.  
 It contains multiple projects, experiments, and practice implementations aimed at building strong fundamentals in **REST APIs, data persistence, and backend architecture**.
