@@ -3,7 +3,6 @@
 This repository documents my hands-on learning journey in **Java backend development** using **Spring Boot**.  
 It contains multiple projects, experiments, and practice implementations aimed at building strong fundamentals in **REST APIs, data persistence, and backend architecture**.
 
----
 
 ## 📌 Repository Overview
 
@@ -17,14 +16,12 @@ The repository serves as a **learning workspace** where I explore and practice:
 
 Each folder represents an **independent learning module or mini-project**.
 
----
 
 ## 🗂 Project Structure
 
 
 
 
----
 
 ## 🛠 Tech Stack
 
@@ -35,7 +32,6 @@ Each folder represents an **independent learning module or mini-project**.
 - **ORM:** Hibernate / Spring Data JPA  
 - **Server:** Embedded Tomcat  
 
----
 
 ## 🎯 Learning Objectives
 
@@ -44,7 +40,7 @@ Each folder represents an **independent learning module or mini-project**.
 - Practice clean project structuring and configuration  
 - Gain confidence with backend concepts used in real-world applications  
 
----
+
 
 ## 📈 Progress & Future Plans
 
@@ -56,7 +52,7 @@ Each folder represents an **independent learning module or mini-project**.
 - 🔜 Migration to MySQL / PostgreSQL  
 - 🔜 Production-ready backend practices  
 
----
+
 
 ## 📬 About Me
 
@@ -65,11 +61,9 @@ I enjoy building backend systems and continuously improving my understanding of 
 
 📌 LinkedIn: [Prasanth Kumar Bollinedi](https://www.linkedin.com/in/prasanth-kumar-bollinedi)
 
----
 
 ## ⭐ Notes
 
 This repository is **for learning and experimentation purposes**.  
 Code quality and structure improve progressively as concepts are explored and refined.
 
----
